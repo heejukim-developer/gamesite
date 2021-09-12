@@ -1,5 +1,5 @@
 body{
-    width: auto;
+    width: 1600px;
     height: 500px;
     background-color:wheat;
     font-family: 'Press Start 2P', cursive;
@@ -8,12 +8,12 @@ body{
 }
 .background{
     
-    width: auto; height: 500px;
+    width: 1600px; height: 500px;
   
     margin-top: -500px;
     margin-left: -10px;
     
-    background: url('./desert2.png') 1000px repeat-x;
+    background: url('./desert2.png') 1600px repeat-x;
     animation: movebg 2s linear infinite;
 
 }
